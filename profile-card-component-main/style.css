@@ -1,0 +1,51 @@
+body{
+background-color: hsl(185, 75%, 39%);
+overflow: hidden;
+
+
+
+}
+.bottom{
+position: relative;
+right: -110vh;
+width: 100vh;
+top: 40vh;
+}
+.top{
+position: relative;
+bottom: 155vh;
+right: 35vh;
+}
+.container{
+background-color: white;
+position: relative;
+bottom: 200vh;
+left: 75vh;
+width: 25vw;
+border-radius: 35px;
+
+}
+.cabecalho{
+background-image: url("./images/bg-pattern-card.svg");
+height: 25vh;
+border-radius: 35px 35px 0 0; 
+}
+.victor{
+position: relative;
+bottom: 10vh;
+left: 19vh;
+border-radius: 35px;
+}
+th,td{
+position: relative;
+padding: 8px;
+left: 10vh;
+}
+table{
+margin: 5rem 5rem;
+
+
+}
+
+
+    
